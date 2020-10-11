@@ -1,8 +1,11 @@
-Meeting,Royce Schultz,Chace Trevino,Andrew Yee,Tianwei Zhao
-First Team Meeting (9/8/20),true,true,true,true
-Sponsor Meeting (9/16/20),true,true,true,true
-Team Meeting /w TA (9/17/20),true,true,true,true
-Sponsor Meeting (9/22/20),true,true,true,true
-Social/Teambuilding Meeting (9/25/20),true,true,true,true
-Sponsor Meeting (9/29/20),true,true,true,true
-Team Meeting /w TA (10/1/20),true,true,true,true
+Meeting,Date,Royce Schultz,Chace Trevino,Andrew Yee,Tianwei Zhao
+First Team Meeting,9/8/20,TRUE,TRUE,TRUE,TRUE
+Sponsor Meeting,9/16/20,TRUE,TRUE,TRUE,TRUE
+Team Meeting /w TA,9/17/20,TRUE,TRUE,TRUE,TRUE
+Sponsor Meeting,9/22/20,TRUE,TRUE,TRUE,TRUE
+Social/Teambuilding Meeting,9/25/20,TRUE,TRUE,TRUE,TRUE
+Sponsor Meeting,9/29/20,TRUE,TRUE,TRUE,TRUE
+Team Meeting /w TA,10/1/20,TRUE,TRUE,TRUE,TRUE
+Team Standup,10/5/20,TRUE,TRUE,TRUE,TRUE
+Sponsor Meeting,10/6/20,TRUE,TRUE,TRUE,TRUE
+Team Backlog Grooming,10/6/20,TRUE,TRUE,TRUE,TRUE
