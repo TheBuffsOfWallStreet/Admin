@@ -1,0 +1,1 @@
+Commit history is generated using a python script with [GitPython](https://pypi.org/project/GitPython/) that reads through all commits of our Sponsor branch on my local machine. 1 hour is credited for each commit with a 1 hour 'cooldown.' Commits at 12 and 12:30 will credit one hour. Commits at 12 and 1:01 will credit 2 hours.
