@@ -1,0 +1,4 @@
+Project Charter: https://thebuffsofwallstreet.atlassian.net/wiki/spaces/CAP/pages/56885260/Project+Charter
+Project Plan and Work Breakdown Structure: https://thebuffsofwallstreet.atlassian.net/wiki/spaces/CAP/pages/169345026/Project+Plan
+Requirements Document: https://thebuffsofwallstreet.atlassian.net/wiki/spaces/CAP/pages/246808577/Requirements+Document
+Video Link: https://youtu.be/Wpjq70gm04s
